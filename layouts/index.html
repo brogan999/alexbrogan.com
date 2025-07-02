@@ -1,0 +1,22 @@
+{{ define "main" }}
+  <main id="main">
+    <div class="container">
+      {{ range .Site.Params.mainSections }}
+        {{ $section := . }}
+        {{ $pages := where $.Site.RegularPages "Section" $section }}
+        {{ if gt (len $pages) 0 }}
+          <h2>{{ $section | title }}</h2>
+          <ul>
+            {{ range $pages }}
+              <li>
+                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                <span>{{ .Date.Format "2006-01-02" }}</span>
+              </li>
+            {{ end }}
+          </ul>
+        {{ end }}
+      {{ end }}
+    </div>
+  </main>
+{{ end }}
+

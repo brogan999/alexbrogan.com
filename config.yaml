@@ -1,1 +1,12 @@
+baseURL: "https://alexbrogan.com/"
+title: "Alex Brogan"
+theme: ["PaperMod"]
+contentDir: content
+publishDir: public
+mainSections:
+  - essays
+  - articles
+  - newsletters
+  - topics
+  - testimonials
 

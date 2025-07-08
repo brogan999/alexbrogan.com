@@ -9,4 +9,8 @@ mainSections:
   - newsletters
   - topics
   - testimonials
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 

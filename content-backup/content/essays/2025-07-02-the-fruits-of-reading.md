@@ -1,0 +1,6 @@
+---
+title: "The fruits of reading"
+date: 2025-07-02
+---
+
+<p id="">Knowledge acquisition is a gross underestimation of the fruits of reading.</p><p id="">There is a saying, “Kill two birds with one stone.”</p><p id="">Reading is closer to “Kill a flock with a rock.”</p><p id="">A non-exhaustive list of the benefits of reading:</p><ul id=""><li id="">Find inspiration </li><li id="">Heightened empathy</li><li id="">Broadened vocabulary</li><li id="">Knowledge acquisition</li><li id="">Solve others’ problems </li><li id="">Prevent others’ mistakes </li><li id="">Prevent your own mistakes</li><li id="">Improved written communication </li><li id="">Improved verbal communication </li><li id="">Solve your own problems more efficiently</li><li id="">Cultivate the habit of sustained attention</li><li id="">Increased creativity by allowing you to combine ideas</li><li id="">Meditation-like benefits of quietening the monkey mind </li><li id="">Add depth and meaning to everyday interactions with more raw material</li><li id="">A greater capacity for meaningful interactions with a wider range of people</li></ul><p id="">When you’re justifying reading more, remember that it’s not just knowledge acquisition.</p>

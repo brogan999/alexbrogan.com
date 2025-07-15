@@ -1,0 +1,36 @@
+baseURL: "https://alexbrogan.com/"
+title: "Alex Brogan"
+theme: PaperMod  
+
+params:
+  homeInfoParams:
+    Title: "Alex Brogan"
+    Content: |
+      I live in Sydney and am currently founding something new. I grew up in Perth, Wes$
+
+      Email: [alex@alexbrogan.com](mailto:alex@alexbrogan.com)
+
+      **Things I’m working on and interested in:**
+
+      - **AI.** [My (long) note](https://www.thelastinvention.ai/) on artificial intell$
+      - **Improving human relationships.** [Maple](https://datewithmaple.com/) is rever$
+      - **Investing.** Current areas of interest are AI, consumer, & physical world. I’$
+      - **History.** [Faster Than Normal](https://datewithmaple.com/) is my outlet to s$
+      - **Music.** I am a big Rufus Du Sol fan.
+      - **Competition.** In a previous life, I played Water Polo for Australia.
+
+      **Elsewhere**
+
+      - [_alexbrogan](https://x.com/_alexbrogan) on X; [alex-brogan](https://linkedin.c$
+
+      **Interviews**
+
+      A few interviews from the past few years. Mostly about my first act, leaving Gold$
+
+      - Interviews: [Han Nguyen](https://www.youtube.com/watch?v=cGtTorgyz9I), [Sparklo$
+      - Podcasts: [Jonathan Cohen](https://www.youtube.com/watch?v=IWNbvZ-uuLk), [Alan $
+      - Talks: [Earlywork](https://www.youtube.com/watch?v=V35hbQNPuiA)
+    imageUrl: "/images/AlexB-7-Website_Final.jpg"
+
+menu:
+  main: []
